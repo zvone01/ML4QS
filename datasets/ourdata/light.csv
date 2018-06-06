@@ -1,4 +1,4 @@
-sensor_type,device_type,timestamps,lux
+sensor_type,device_type,timestamps,lux,lux2,lux3
 light-apds9251,smartphone,1528450242899000000,711.0,4994.0,142.0
 light-apds9251,smartphone,1528450243048000000,724.0,4986.0,143.0
 light-apds9251,smartphone,1528450243170000000,711.0,4994.0,144.0
